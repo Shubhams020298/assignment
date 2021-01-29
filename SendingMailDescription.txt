@@ -1,1 +1,7 @@
-
+Send Email project
+Technology use NetBeans
+Create GUI Useing Drag and Drop in java 
+java pacakge useing javax.swing 
+JDBC connection with SQL Server 
+SMTP third party use for sending mail 
+Email Send Successfully 
