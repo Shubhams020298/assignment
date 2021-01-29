@@ -2,3 +2,6 @@ Phone OTP Send
 Technology use NEtBeans
 Create GUI Useing Drag and Drop in java
 Textlocal.com thired party use for sending Otp 
+Java pacakge use java.swing.*
+JDBC Connection with SQl Server
+get error {"errors":[{"code":3,"message":"Invalid login details"}],"status":"failure"}
