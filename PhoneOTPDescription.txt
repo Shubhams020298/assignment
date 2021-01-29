@@ -1,0 +1,4 @@
+Phone OTP Send 
+Technology use NEtBeans
+Create GUI Useing Drag and Drop in java
+Textlocal.com thired party use for sending Otp 
